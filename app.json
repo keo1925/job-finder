@@ -1,4 +1,13 @@
 {
-  "name": "YouGotThis",
-  "displayName": "YouGotThis"
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "YouGotThis",
+    "slug": "YouGotThis"
+  }
 }
