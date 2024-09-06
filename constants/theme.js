@@ -11,9 +11,9 @@ const COLORS = {
 };
 
 const FONT = {
-  regular: "DMRegular",
-  medium: "DMMedium",
-  bold: "DMBold",
+  regular: "Montserrat_400Regular",
+  medium: "Montserrat_500Medium",
+  bold: "Montserrat_700Bold",
 };
 
 const SIZES = {
