@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { View, ScrollView, SafeAreaView } from "react-native";
 import { Stack, useRouter } from "expo-router";
 import { COLORS, SIZES, icons, images } from "../constants";
@@ -8,7 +7,6 @@ import {
   ScreenHeaderBtn,
   Welcome,
 } from "../components";
-
 
 const Home = () => {
   const router = useRouter();
